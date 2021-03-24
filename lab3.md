@@ -18,16 +18,16 @@
 
 ## วิธีการทดลอง
 1. ต่อ serial port กับ adapter
+
 ![1](https://user-images.githubusercontent.com/80879503/112349488-596e1a80-8cfb-11eb-8c74-5bd3aa986ac5.jpg)
 
-
 2. ต่อ adapter port0 เเละ port1 เพื่อให้เห็น output ได้ง่ายขึ้น
+
 ![2](https://user-images.githubusercontent.com/80879503/112349891-b2d64980-8cfb-11eb-948e-e03cf7208eb4.jpg)
 
-
 3. ต่อทุกอย่างเข้ากับ ESP-01
-![3](https://user-images.githubusercontent.com/80879503/112351071-25472980-8cfc-11eb-9169-9864ab6dcc7a.jpg)
 
+![3](https://user-images.githubusercontent.com/80879503/112351071-25472980-8cfc-11eb-9169-9864ab6dcc7a.jpg)
 
 4. นำโปรเเกรมใน folder Example ชื่อ 03_Output-port มาเขียนบน microcontroller เพื่อทดสอบ
 ![4](https://user-images.githubusercontent.com/80879503/112351404-722b0000-8cfc-11eb-8a14-87a817473c36.jpg)
