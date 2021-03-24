@@ -19,7 +19,7 @@
 
 ![1](https://user-images.githubusercontent.com/80879503/112341378-f2993300-8cf3-11eb-8408-f290059c1b29.jpg)
 
-2. นำโปรเเกรมใน folder Example ชื่อ 01_serial_monitor มาเขียนบน microcontroller เพื่อทดสอบ
+2. นำโปรเเกรมใน folder Example ชื่อ 01_serial-monitor มาเขียนบน microcontroller เพื่อทดสอบ
 ![6](https://user-images.githubusercontent.com/80879503/112342160-94b91b00-8cf4-11eb-921b-5465bce10f3c.jpg)
 
 3. ใช้ platformio.ini เพื่อรัน
