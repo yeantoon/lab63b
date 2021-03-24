@@ -33,10 +33,10 @@
 ![5](https://user-images.githubusercontent.com/80879503/112362773-5ed16200-8d07-11eb-9fdf-d462e628a93e.jpg)
 
 ## การบันทึกผลการทดลอง
-* หลังจากการ pio run microcontroller ก็สร้างไวไฟชื่อ HI_BMFWIFI_2.4G
+* หลังจากการ pio run microcontroller ก็สร้างไวไฟชื่อ TUENG-ESP-WIFI
 
 ## อภิปรายผลการทดลอง
-* หลังจากการ run 06_wifi-ap-web-server ลงบน ESP-01 ก็สร้างไวไฟชื่อ HI_BMFWIFI_2.4G ขึ้นมาเเละสามารถ connect ได้
+* หลังจากการ run 06_wifi-ap-web-server ลงบน ESP-01 ก็สร้างไวไฟชื่อ TUENG-ESP-WIFI ขึ้นมาเเละสามารถ connect ได้
 
 ## คำถามหลังการทดลอง
 * สามารถนำไปประยุกต์ใช้กับอะไรได้บ้าง
