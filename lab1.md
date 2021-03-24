@@ -16,6 +16,7 @@
 
 ## วิธีการทดลอง
 1. ต่อ Microcontroller เข้า serial
+
 ![1](https://user-images.githubusercontent.com/80879503/112341378-f2993300-8cf3-11eb-8408-f290059c1b29.jpg)
 
 2. นำโปรเเกรมใน folder Example ชื่อ 01_serial_monitor มาเขียนบน microcontroller เพื่อทดสอบ
@@ -28,6 +29,7 @@
 ![3](https://user-images.githubusercontent.com/80879503/112342240-a3073700-8cf4-11eb-970f-f34cf9bd6767.jpg)
 
 5. กดปุ่มใน microcontroller ให้ reset เพื่อรับโปรเเกรมใหม่
+
 ![4](https://user-images.githubusercontent.com/80879503/112342262-a8fd1800-8cf4-11eb-960f-f7730034c7fa.jpg)
 
 6. ใช้คำสั่ง pio device monitor เพื่อดูผลลัพท์
