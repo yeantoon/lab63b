@@ -16,7 +16,7 @@
 
 ## วิธีการทดลอง
 1. ต่อ Microcontroller เข้า serial
-![image](C:\Users\ธีรภัทร สิงห์ตะนะ\Desktop\lab\lab1)
+![1](https://user-images.githubusercontent.com/80879503/112341378-f2993300-8cf3-11eb-8408-f290059c1b29.jpg)
 2. นำโปรเเกรมใน folder Example ชื่อ 01_serial_monitor มาเขียนบน microcontroller เพื่อทดสอบ
 
 3. ใช้ platformio.ini เพื่อรัน
