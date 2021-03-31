@@ -22,7 +22,8 @@
 1. ต่อ serial port กับ adapter
 2. ต่อเข้ากับ adapter เเละ port1 ส่วน port0 ต่อขนานกับออด
 3. ต่อทุกอย่างเข้ากับ ESP-01
-4. นำโปรเเกรมใน folder Example ชื่อ 03_Output-port มาเขียนบน microcontroller โดยพิมพ์ vi src/main.ccp
+4. นำโปรเเกรมใน folder Example ชื่อ 03_Output-port มาเขียนบน microcontroller โดยพิมพ์ vi src/main.ccp เพื่อเช็ค
+
 '''javascirpt
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
