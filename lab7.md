@@ -24,7 +24,7 @@
 3. ต่อทุกอย่างเข้ากับ ESP-01
 4. นำโปรเเกรมใน folder Example ชื่อ 03_Output-port มาเขียนบน microcontroller โดยพิมพ์ vi src/main.ccp เพื่อเช็ค
 
-'''javascript
+```javascript
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
 
@@ -49,4 +49,4 @@ void loop()
 	}
 	delay(500);
 }
-'''
+```
